@@ -1,7 +1,7 @@
 
 
 
-
+# SLOWWWW
 def fibRecurs(n):
     if(n <= 1):
         return n
@@ -10,7 +10,7 @@ def fibRecurs(n):
 
 print(fibRecurs(6))
 
-
+#Fast!!!
 def fibLoop(n):
     x = []
     for i in range(n+1):
